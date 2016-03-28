@@ -100,6 +100,7 @@ alias -s tgz='tar -xzvf'
 alias -s zip='unzip'
 alias -s bz2='tar -xjvf'
 alias subl='open -a "Sublime Text"'
+alias 253deploy='mina -f ../ewsis_web_mina/deploy-253.rb deploy' 
 
 #目录别名 用cd xxx进入
 hash -d github="~/Github"
