@@ -1,0 +1,19 @@
+[push]
+	default = simple
+[user]
+	name = kimufly
+	email = kimufly@live.com
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[core]
+	editor = vim
+[alias]
+    ci = commit -a -v 
+    st = status -s 
+    br = branch 
+    throw = reset --hard HEAD
+    throwh = reset --hard HEAD^
+[color]
+    ui = true
