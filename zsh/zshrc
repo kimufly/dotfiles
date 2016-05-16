@@ -101,7 +101,6 @@ alias -s tgz='tar -xzvf'
 alias -s zip='unzip'
 alias -s bz2='tar -xjvf'
 alias subl='open -a "Sublime Text"'
-alias 253deploy='mina -f ../ewsis_web_mina/deploy-253.rb deploy' 
 alias reload='source ~/.zshrc'
 
 #目录别名 用cd xxx进入
@@ -252,3 +251,11 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH="$PATH:$HOME/.npm-global/bin"
 export PATH="$PATH:/opt/pkg_uninstaller"
 export PATH="$PATH:/usr/local/mysql/bin"
+export NVM_DIR="$HOME/.nvm"
+. "$(brew --prefix nvm)/nvm.sh"
+export PATH="/usr/local/sbin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"

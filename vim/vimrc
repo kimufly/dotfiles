@@ -66,6 +66,9 @@ Plugin 'bling/vim-airline'
 
 Plugin 'jistr/vim-nerdtree-tabs'
 
+Plugin 'junegunn/fzf', { 'dir': '/usr/local/opt/fzf', 'do': './install --all' }
+
 call vundle#end()
 
 filetype plugin indent on
+
