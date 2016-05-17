@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/linjingjing/.oh-my-zsh
+export ZSH=/Users/faz/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -102,6 +102,7 @@ alias -s zip='unzip'
 alias -s bz2='tar -xjvf'
 alias subl='open -a "Sublime Text"'
 alias reload='source ~/.zshrc'
+alias v='nvim'
 
 #目录别名 用cd xxx进入
 # hash -d github="~/Github"

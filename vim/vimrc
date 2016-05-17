@@ -18,6 +18,9 @@ set wrap
 set lbr
 set wrap
 set clipboard=unnamed
+" NERDTree config
+map <F2> :NERDTreeToggle<CR>
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 
 let g:nerdtree_tabs_open_on_console_startup=1
 let g:nerdtree_tabs_open_on_new_tab=1
@@ -65,6 +68,8 @@ Plugin 'honza/vim-snippets'
 Plugin 'bling/vim-airline'
 
 Plugin 'jistr/vim-nerdtree-tabs'
+
+Plugin 'Xuyuanp/git-nerdtree.git'
 
 Plugin 'junegunn/fzf', { 'dir': '/usr/local/opt/fzf', 'do': './install --all' }
 
