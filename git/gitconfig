@@ -8,7 +8,7 @@
 	smudge = git-lfs smudge %f
 	required = true
 [core]
-	editor = vim
+	editor = nvim
 [alias]
     ci = commit -a -v 
     st = status -s 
