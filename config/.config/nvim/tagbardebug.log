@@ -1,0 +1,162 @@
+1970-01-01 13:39:03.846095: OpenWindow called with flags: 'fcj'
+1970-01-01 13:39:03.847104: goto_win(): 2wincmd w, 0
+1970-01-01 13:39:03.851842: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:03.853703: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:03.895758: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:03.898861: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/__Tagbar__]
+1970-01-01 13:39:03.901887: In Tagbar window, stopping processing
+1970-01-01 13:39:03.905808: goto_win(): 2wincmd w, 0
+1970-01-01 13:39:03.907802: RenderContent called
+1970-01-01 13:39:03.909979: Redisplaying file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:03.914688: PrintKinds called
+1970-01-01 13:39:03.917889: Printing kind: n, number of (top-level) tags: 0
+1970-01-01 13:39:03.920190: Printing kind: v, number of (top-level) tags: 31
+1970-01-01 13:39:03.964656: Printing kind: f, number of (top-level) tags: 0
+1970-01-01 13:39:03.964917: Printing kind: a, number of (top-level) tags: 0
+1970-01-01 13:39:03.968329: Printing kind: c, number of (top-level) tags: 0
+1970-01-01 13:39:03.970585: Printing kind: m, number of (top-level) tags: 22
+1970-01-01 13:39:04.005665: Highlight pattern: '/^\%22l\s*[▼▶ ][-+# ]\zs[^( ]\+\ze/'
+1970-01-01 13:39:04.034141: OpenWindow finished, Tagbar already open
+1970-01-01 13:39:04.924632: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:04.925458: goto_win(): 2wincmd w, 0
+1970-01-01 13:39:04.930015: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:04.930679: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:04.935155: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:04.980060: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/__Tagbar__]
+1970-01-01 13:39:04.980557: In Tagbar window, stopping processing
+1970-01-01 13:39:04.981759: goto_win(): wincmd p, 0
+1970-01-01 13:39:04.989357: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:04.989668: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:04.990730: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:05.050300: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:05.050622: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:39:05.051801: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:05.092155: File data seems up to date [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:05.094260: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:05.096827: AutoUpdate finished successfully
+1970-01-01 13:39:35.446240: goto_win(): 2wincmd w, 0
+1970-01-01 13:39:35.448517: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:35.449694: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:35.451699: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:35.458429: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/__Tagbar__]
+1970-01-01 13:39:35.499243: In Tagbar window, stopping processing
+1970-01-01 13:39:35.501548: RenderContent called
+1970-01-01 13:39:35.503839: Redisplaying file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:35.509443: PrintKinds called
+1970-01-01 13:39:35.512932: Printing kind: n, number of (top-level) tags: 0
+1970-01-01 13:39:35.515297: Printing kind: v, number of (top-level) tags: 31
+1970-01-01 13:39:35.522270: Printing kind: f, number of (top-level) tags: 0
+1970-01-01 13:39:35.522619: Printing kind: a, number of (top-level) tags: 0
+1970-01-01 13:39:35.525316: Printing kind: c, number of (top-level) tags: 0
+1970-01-01 13:39:35.567922: Printing kind: m, number of (top-level) tags: 22
+1970-01-01 13:39:35.602117: Highlight pattern: '/^\%22l\s*[▼▶ ][-+# ]\zs[^( ]\+\ze/'
+1970-01-01 13:39:35.602427: goto_win(): 1wincmd w, 0
+1970-01-01 13:39:35.605231: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:35.605947: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:35.608298: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:35.670873: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:35.671343: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:39:35.672513: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:35.716726: File data seems up to date [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:35.720790: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:35.723554: AutoUpdate finished successfully
+1970-01-01 13:39:42.601460: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.601793: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:39:42.604138: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.608439: File data outdated, updating [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.613321: ProcessFile called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.615843: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.658688: typeinfo for file to process: {'ctagstype': 'vim', 'ftype': 'vim', 'kinddict': {'a': 3, 'c': 4, 'f': 2, 'v': 1, 'm': 5, 'n': 0}, 'getKind': function('387'), 'createKinddict': function('388'), 'New': function('386'), 'kinds': [{'short': 'n', 'long': 'vimball filenames', 'fold': 0, 'stl': 1}, {'short': 'v', 'long': 'variables', 'fold': 1, 'stl': 0}, {'short': 'f', 'long': 'functions', 'fold': 0, 'stl': 1}, {'short': 'a', 'long': 'autocommand groups', 'fold': 1, 'stl': 1}, {'short': 'c', 'long': 'commands', 'fold': 0, 'stl': 0}, {'short': 'm', 'long': 'maps', 'fold': 1, 'stl': 0}]}
+1970-01-01 13:39:42.670121: ExecuteCtagsOnFile called [/var/folders/3n/n1xryxvx07n4_n2jm0fxgh2w0000gn/T/nvim9zoXhq/6.vim]
+1970-01-01 13:39:42.670681: EscapeCtagsCmd called
+1970-01-01 13:39:42.673142: ctags_bin: /usr/local/bin/ctags
+1970-01-01 13:39:42.675462: ctags_args (is a list): ['-f', '-', '--format=2', '--excmd=pattern', '--fields=nksSaf', '--extra=', '--sort=no', '--append=no', '--language-force=vim', '--vim-kinds=nvfacm']
+1970-01-01 13:39:42.679634: Escaped ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/3n/n1xryxvx07n4_n2jm0fxgh2w0000gn/T/nvim9zoXhq/6.vim'
+1970-01-01 13:39:42.684411: Executing ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/3n/n1xryxvx07n4_n2jm0fxgh2w0000gn/T/nvim9zoXhq/6.vim'
+1970-01-01 13:39:42.698729: "settings.vim" 237L, 6889C 已写入
+1970-01-01 13:39:42.733932: Ctags executed successfully
+1970-01-01 13:39:42.743846: Filetype tag kinds: ['a', 'c', 'f', 'v', 'm', 'n']
+1970-01-01 13:39:42.747649: Parsing ctags output
+1970-01-01 13:39:42.764780: Number of top-level tags: 0
+1970-01-01 13:39:42.765041: Processing kind: n, number of tags: 0
+1970-01-01 13:39:42.769023: Processing kind: v, number of tags: 31
+1970-01-01 13:39:42.773068: Processing kind: f, number of tags: 0
+1970-01-01 13:39:42.775412: Processing kind: a, number of tags: 0
+1970-01-01 13:39:42.777653: Processing kind: c, number of tags: 0
+1970-01-01 13:39:42.781556: Processing kind: m, number of tags: 22
+1970-01-01 13:39:42.832442: RenderContent called
+1970-01-01 13:39:42.832985: goto_win(): wincmd p, 1
+1970-01-01 13:39:42.835463: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:42.839249: Redisplaying file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.843442: PrintKinds called
+1970-01-01 13:39:42.845878: Printing kind: n, number of (top-level) tags: 0
+1970-01-01 13:39:42.848143: Printing kind: v, number of (top-level) tags: 31
+1970-01-01 13:39:42.857214: Printing kind: f, number of (top-level) tags: 0
+1970-01-01 13:39:42.857521: Printing kind: a, number of (top-level) tags: 0
+1970-01-01 13:39:42.898798: Printing kind: c, number of (top-level) tags: 0
+1970-01-01 13:39:42.901424: Printing kind: m, number of (top-level) tags: 22
+1970-01-01 13:39:42.906898: goto_win(): 2wincmd w, 1
+1970-01-01 13:39:42.910981: goto_win(): 1wincmd w, 1
+1970-01-01 13:39:42.913281: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:42.915785: AutoUpdate finished successfully
+1970-01-01 13:39:46.956079: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:46.957215: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:39:46.959277: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:46.961831: File data seems up to date [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:46.964082: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:46.968376: AutoUpdate finished successfully
+1970-01-01 13:39:51.428548: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:51.432573: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:39:51.432892: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:51.436976: File data seems up to date [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:51.441037: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:39:51.443412: AutoUpdate finished successfully
+1970-01-01 13:40:34.072409: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.073364: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:40:34.074177: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.078883: File data outdated, updating [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.081493: ProcessFile called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.083555: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.090260: typeinfo for file to process: {'ctagstype': 'vim', 'ftype': 'vim', 'kinddict': {'a': 3, 'c': 4, 'f': 2, 'v': 1, 'm': 5, 'n': 0}, 'getKind': function('387'), 'createKinddict': function('388'), 'New': function('386'), 'kinds': [{'short': 'n', 'long': 'vimball filenames', 'fold': 0, 'stl': 1}, {'short': 'v', 'long': 'variables', 'fold': 1, 'stl': 0}, {'short': 'f', 'long': 'functions', 'fold': 0, 'stl': 1}, {'short': 'a', 'long': 'autocommand groups', 'fold': 1, 'stl': 1}, {'short': 'c', 'long': 'commands', 'fold': 0, 'stl': 0}, {'short': 'm', 'long': 'maps', 'fold': 1, 'stl': 0}]}
+1970-01-01 13:40:34.130808: ExecuteCtagsOnFile called [/var/folders/3n/n1xryxvx07n4_n2jm0fxgh2w0000gn/T/nvim9zoXhq/11.vim]
+1970-01-01 13:40:34.132270: EscapeCtagsCmd called
+1970-01-01 13:40:34.134398: ctags_bin: /usr/local/bin/ctags
+1970-01-01 13:40:34.138978: ctags_args (is a list): ['-f', '-', '--format=2', '--excmd=pattern', '--fields=nksSaf', '--extra=', '--sort=no', '--append=no', '--language-force=vim', '--vim-kinds=nvfacm']
+1970-01-01 13:40:34.144227: Escaped ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/3n/n1xryxvx07n4_n2jm0fxgh2w0000gn/T/nvim9zoXhq/11.vim'
+1970-01-01 13:40:34.150252: Executing ctags command: '/usr/local/bin/ctags' '-f' '-' '--format=2' '--excmd=pattern' '--fields=nksSaf' '--extra=' '--sort=no' '--append=no' '--language-force=vim' '--vim-kinds=nvfacm' '/var/folders/3n/n1xryxvx07n4_n2jm0fxgh2w0000gn/T/nvim9zoXhq/11.vim'
+1970-01-01 13:40:34.166395: "settings.vim" 237L, 6896C 已写入
+1970-01-01 13:40:34.233754: Ctags executed successfully
+1970-01-01 13:40:34.234298: Filetype tag kinds: ['a', 'c', 'f', 'v', 'm', 'n']
+1970-01-01 13:40:34.275091: Parsing ctags output
+1970-01-01 13:40:34.302303: Number of top-level tags: 0
+1970-01-01 13:40:34.302719: Processing kind: n, number of tags: 0
+1970-01-01 13:40:34.304739: Processing kind: v, number of tags: 31
+1970-01-01 13:40:34.309758: Processing kind: f, number of tags: 0
+1970-01-01 13:40:34.310371: Processing kind: a, number of tags: 0
+1970-01-01 13:40:34.314396: Processing kind: c, number of tags: 0
+1970-01-01 13:40:34.316853: Processing kind: m, number of tags: 22
+1970-01-01 13:40:34.372211: RenderContent called
+1970-01-01 13:40:34.373046: goto_win(): wincmd p, 1
+1970-01-01 13:40:34.373599: goto_win(): 2wincmd w, 1
+1970-01-01 13:40:34.377249: Redisplaying file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.378463: PrintKinds called
+1970-01-01 13:40:34.382551: Printing kind: n, number of (top-level) tags: 0
+1970-01-01 13:40:34.386376: Printing kind: v, number of (top-level) tags: 31
+1970-01-01 13:40:34.392256: Printing kind: f, number of (top-level) tags: 0
+1970-01-01 13:40:34.392606: Printing kind: a, number of (top-level) tags: 0
+1970-01-01 13:40:34.434444: Printing kind: c, number of (top-level) tags: 0
+1970-01-01 13:40:34.438059: Printing kind: m, number of (top-level) tags: 22
+1970-01-01 13:40:34.440781: goto_win(): 2wincmd w, 1
+1970-01-01 13:40:34.442527: goto_win(): 1wincmd w, 1
+1970-01-01 13:40:34.446699: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:34.451420: goto_win(): 2wincmd w, 0
+1970-01-01 13:40:34.453182: Highlight pattern: '/^\%36l\s*[▼▶ ][-+# ]\zs[^( ]\+\ze/'
+1970-01-01 13:40:34.455312: goto_win(): 1wincmd w, 0
+1970-01-01 13:40:34.519102: AutoUpdate finished successfully
+1970-01-01 13:40:39.597922: AutoUpdate called [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:39.599166: Vim filetype: 'vim', sanitized filetype: 'vim'
+1970-01-01 13:40:39.599679: Checking if file is valid [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:39.603912: File data seems up to date [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:39.605730: Setting current file [/Volumes/Transcend/github/dotfiles/config/.config/nvim/settings.vim]
+1970-01-01 13:40:39.607962: AutoUpdate finished successfully
+1970-01-01 13:40:59.713993: goto_win(): 1wincmd w, 1

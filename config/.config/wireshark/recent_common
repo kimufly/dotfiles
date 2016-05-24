@@ -15,6 +15,8 @@ recent.display_filter: tcp
 recent.display_filter: qq
 recent.display_filter: qq.com
 recent.display_filter: bilibili
+recent.display_filter: 192.168.1.1
+recent.display_filter: 120.25.148.9
 
 # Main window geometry.
 # Decimal numbers.

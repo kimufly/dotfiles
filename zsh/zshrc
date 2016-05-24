@@ -83,7 +83,7 @@ source $HOME/.hh_rc.zsh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias cls='clear'
+alias clr='clear'
 alias ll='ls -l'
 alias la='ls -a'
 alias vi='vim'
@@ -103,6 +103,8 @@ alias -s bz2='tar -xjvf'
 alias subl='open -a "Sublime Text"'
 alias reload='source ~/.zshrc'
 alias v='nvim'
+alias vi='nvim'
+alias vim='nvim'
 
 #目录别名 用cd xxx进入
 # hash -d github="~/Github"

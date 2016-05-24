@@ -51,6 +51,7 @@ let g:loaded_rrhelper         = 1
 
 let g:python_host_skip_check  = 1
 let g:python3_host_skip_check = 1
+let g:tagbar_ctag_bin         = 1
 
 " works with neovim
 " this will place yanked text into the global clipboard
@@ -68,7 +69,7 @@ endif
 
 " " color
 " set background=dark
-" " solarized options
+" solarized options
 " let g:solarized_visibility = "high"
 " let g:solarized_contrast = "high"
 " colorscheme solarized
@@ -203,21 +204,26 @@ let g:SuperTabDefaultCompletionType = '<C-n>'
 let g:UltiSnipsExpandTrigger = "<tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
+
+let g:indent_guides_auto_colors = 0
+autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=3
+autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=4
+
 " "}}}
 
 " "}}}
 "NERDTree config 
 map <F2> :NERDTreeToggle<CR>
-map <F3> :Tlist<CR>
+map <F8> :TagbarToggle<CR>
 au bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 
 let g:nerdtree_tabs_open_on_console_startup=1
 let g:nerdtree_tabs_open_on_new_tab=1
 
-let Tlist_Use_Right_Window=1
-let Tlist_Show_One_File=1
-let Tlist_Exit_OnlyWindow=1
-let Tlist_Auto_Open=1
+"let Tlist_Use_Right_Window=1
+"#let Tlist_Show_One_File=0
+"#let Tlist_Exit_OnlyWindow=1
+"#let Tlist_Auto_Open=0
 
 au FileType html setl sw=2 sts=2 expandtab
 au FileType scss setl sw=2 sts=2 expandtab
@@ -234,4 +240,5 @@ set wrap
 set lbr
 set wrap
 
-
+nnoremap <F3> :NumbersToggle<CR>
+nnoremap <F4> :NumbersOnOff<CR>
