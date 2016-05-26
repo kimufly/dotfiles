@@ -20,3 +20,4 @@
     throwh = reset --hard HEAD^
 [color]
     ui = true
+    excludesfile = /Users/faz/.gitignore_global
