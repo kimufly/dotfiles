@@ -10,9 +10,9 @@
 [core]
 	editor = nvim
 [alias]
-    ci = commit -a -v 
-    st = status -s 
-    br = branch 
+    ci = commit -a -v
+    st = status -s
+    br = branch
     cl = clone
     pl = pull
     ps = push
