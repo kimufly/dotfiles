@@ -12,6 +12,10 @@ if [ MIRROR = '1' ]; then
 echo "ruby_url=https://cache.ruby-china.org/pub/ruby" > ~/.rvm/user/db
 fi
 
+if [ echo $SHELL = '/bin/zsh' ]; then
+command source ~/.zshrc
+fi
+
 rvm requirements
 rvm install 2.3.1 --disable-binary
 rvm use 2.3.1 --default
