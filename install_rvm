@@ -17,8 +17,8 @@ command source ~/.zshrc
 fi
 
 rvm requirements
-rvm install 2.3.1 --disable-binary
-rvm use 2.3.1 --default
+rvm install 2.4.0 --disable-binary
+rvm use 2.4.0 --default
 rvm -v
 ruby -v
 
