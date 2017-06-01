@@ -11,6 +11,8 @@
 let g:home_path = expand("~")
 let g:vim_path = expand("~/.vim")
 let g:xdg_path = expand("~/.config")
+let g:wakatime_PythonBinary = '/usr/bin/python'
+
 
 " Source configuration files
 exe 'source ' . g:vim_path . '/janus/vim/vimrc'

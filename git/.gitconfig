@@ -8,7 +8,8 @@
 	smudge = git-lfs smudge %f
 	required = true
 [core]
-	editor = nvim
+  excludesfile = /Users/faz/.gitignore_global
+  editor = nvim
 [alias]
     ci = commit -a -v
     st = status -s
@@ -20,4 +21,3 @@
     throwh = reset --hard HEAD^
 [color]
     ui = true
-    excludesfile = /Users/faz/.gitignore_global
