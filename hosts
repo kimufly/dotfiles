@@ -1,9 +1,5 @@
 127.0.0.1 localhost
 
-#123.56.15.113 adr.transit.gf.ppgame.com
-#218.11.1.163 ios.transit.gf.ppgame.com
-
-
-# 123.56.15.113 gfcn-transit.gw.sunborngame.com
+47.95.53.9 gfcn-transit.ios.sunborngame.com
+36.102.212.74 gf-cn.cdn.sunborngame.com
 47.103.222.34 gfcn-transit.gw.sunborngame.com
-# 47.95.53.9 gfcn-transit.ios.sunborngame.com
